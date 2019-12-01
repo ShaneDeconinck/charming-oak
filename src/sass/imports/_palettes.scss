@@ -76,7 +76,7 @@
     &.bg-accent {
       background: _palette(accent-purple);
       background: -webkit-linear-gradient(to right,_palette(accent-purple), _palette(accent-purple-alt));
-      background: linear-gradient(to right,_palette(accent-purple), _palette(accent-purple-alt));
+      background: linear-gradient(to bottom right,_palette(accent-purple), _palette(accent-purple-alt));
     }
   }
 }
